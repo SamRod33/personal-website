@@ -1,318 +1,319 @@
 # Wireframe
 
-1. Home Page
+## 1. Home Page
 
-    ![home-page](/src/website-wireframe/Group%2019.png)
+![home-page](/src/website-wireframe/Group%2019.png)
 
-    **Design Choices**
+### Design Choices{#home}
 
-        Repetition
+Repetition
 
-            - Let’s Meet button on left side of page and in navigation bar is to remind audience I want to be contacted.
+- Let’s Meet button on left side of page and in navigation bar is to remind audience I want to be contacted.
 
-            - Additionally, placing it in multiple places makes it easier to be seen in case the audience looks at only one side of the page
+- Additionally, placing it in multiple places makes it easier to be seen in case the audience looks at only one side of the page
 
-        Alignment
+Alignment
 
-            - Making the navigation bar aligned with a self portrait makes sure that it is pleasing to the eye and helps the navigation bar get noticed after users look at self portrait, or similarly for vice-versa.
+- Making the navigation bar aligned with a self portrait makes sure that it is pleasing to the eye and helps the navigation bar get noticed after users look at self portrait, or similarly for vice-versa.
 
-            - Aligning Personal Statement, Quick About me, and Let’s Meet will make it easier for users to read quickly since it is a concentrated piece of text. Users have a clear straight downward path when looking at this section.
+- Aligning Personal Statement, Quick About me, and Let’s Meet will make it easier for users to read quickly since it is a concentrated piece of text. Users have a clear straight downward path when looking at this section.
 
-            - Aligning navigation bar horizontally encourages left-to-right psychological behavioral pattern  when reading, thus each section complements the other
+- Aligning navigation bar horizontally encourages left-to-right psychological behavioral pattern  when reading, thus each section complements the other
 
-        Proximity
+Proximity
 
-            - Making the Personal Statement and about me close together helps users understand the purpose of my website when they immediately arrive to the website
+- Making the Personal Statement and about me close together helps users understand the purpose of my website when they immediately arrive to the website
 
-            - Putting the navigation bar sections side by side help the user understand all the sections of my website
+- Putting the navigation bar sections side by side help the user understand all the sections of my website
 
-    **Rhetorical Situation**
+### Rhetorical Situation{#home}
 
-        Contrast
+Contrast
 
-            - White background will make the elements on the page pop out, especially since I will use a drop shadow for the Let’s Meet and My resume buttons.
+- White background will make the elements on the page pop out, especially since I will use a drop shadow for the Let’s Meet and My resume buttons.
 
-            - White background contrasts with the filled-in with color navigation bar boxes
+- White background contrasts with the filled-in with color navigation bar boxes
 
-            - Self portrait visual on the right side of the page will contrast with the text on the left side of the page. This makes the focal point of this page be my self-portrait
+- Self portrait visual on the right side of the page will contrast with the text on the left side of the page. This makes the focal point of this page be my self-portrait
 
-        Purpose
+Purpose
 
-            - I want my audience to get a sense of my identity, and with the contrast of my self-portrait, it will help them remember what I look like
+- I want my audience to get a sense of my identity, and with the contrast of my self-portrait, it will help them remember what I look like
 
-        Audience
+Audience
 
-            - Highlighting skills, projects, and let’s meet sections on my arrival page signals that my audience is mainly for those interested in my professional experiences. So for instance, recruiters are looking for my technical capability so recruiters would be included as my audience.
+- Highlighting skills, projects, and let’s meet sections on my arrival page signals that my audience is mainly for those interested in my professional experiences. So for instance, recruiters are looking for my technical capability so recruiters would be included as my audience.
 
-        Context
+Context
 
-            - Website existing on the internet means that while I made the website in NY, my website reaches an international audience and scale. So I want to reach as many people as possible so that they know my professional identity
+- Website existing on the internet means that while I made the website in NY, my website reaches an international audience and scale. So I want to reach as many people as possible so that they know my professional identity
 
-        Text
+Text
 
-            - Website with buttons and links are simple in design to make it easily accessible and intuitive to my audience
+- Website with buttons and links are simple in design to make it easily accessible and intuitive to my audience
 
-2. About Page
+## 2. About Page
 
-    ![about-page](/src/website-wireframe/about.png)
+![about-page](/src/website-wireframe/about.png)
 
-    **Design Choices**
+### Design Choices{#about}
 
-        Repetition
+Repetition
 
-            - I repeat my self portrait (albeit with a different image) to reinforce my identity in the visual mode
+- I repeat my self portrait (albeit with a different image) to reinforce my identity in the visual mode
 
-            - I repeat the style for professional interests, current involvement, and hobbies so that it looks appealing organizationally
+- I repeat the style for professional interests, current involvement, and hobbies so that it looks appealing organizationally
 
-        Alignment
+Alignment
 
-            - Aligning each item in the interests section as a bulleted list signals to my audience that each item will be concise
+- Aligning each item in the interests section as a bulleted list signals to my audience that each item will be concise
 
-            - Aligning the self-portrait with professional interests help to distinguish this page into two main sections in my about me
+- Aligning the self-portrait with professional interests help to distinguish this page into two main sections in my about me
 
-        Proximity
+Proximity
 
-            - I group together various interests and involvements because they are related to my passions and what I am interested in
+- I group together various interests and involvements because they are related to my passions and what I am interested in
 
-        Contrast
+Contrast
 
-            - There is clear contrast between my image and the text in the page
+- There is clear contrast between my image and the text in the page
 
-            - Contrast with boxes and the white background distinctly separates each element on the page so it is easy to identify the organization pattern
+- Contrast with boxes and the white background distinctly separates each element on the page so it is easy to identify the organization pattern
 
-    **Rhetorical Situation**
+### Rhetorical Situation{#about}
 
-        Purpose
+Purpose
 
-            - Putting my current status at the top serves to clearly communicate to my audience that I want to receive opportunities for full-time employment as a new graduate
+- Putting my current status at the top serves to clearly communicate to my audience that I want to receive opportunities for full-time employment as a new graduate
 
-        Audience
+Audience
 
-            - My status clearly communicates that my primary audience are recruiters who are looking to hire me for positions that match my interests
+- My status clearly communicates that my primary audience are recruiters who are looking to hire me for positions that match my interests
 
-        Context
+Context
 
-            - Placing the date of when I last updated the site will give context to my audience that I am still looking for opportunities
+- Placing the date of when I last updated the site will give context to my audience that I am still looking for opportunities
 
-        Text
+Text
 
-            - Using bulleted format makes it easier to navigate the different interest sections
+- Using bulleted format makes it easier to navigate the different interest sections
 
-3. Skills Page
+## 3. Skills Page
 
-    ![skills-page](/src/website-wireframe/Group%202.png)
+![skills-page](/src/website-wireframe/Group%202.png)
 
-    **Design Choices**
+### Design Choices{#skills}
 
-        Repetition
+Repetition
 
-            - I repeat the same format for programming language and tools sections so that the page looks more balanced than choosing different formats
+- I repeat the same format for programming language and tools sections so that the page looks more balanced than choosing different formats
 
-        Alignment
+Alignment
 
-            - Aligning the different bulleted items in each section encourage the audience’s eyes to go in a clear downard direction
+- Aligning the different bulleted items in each section encourage the audience’s eyes to go in a clear downard direction
 
-        Proximity
+Proximity
 
-            - Dividing the page into two sections and placing each item in their respective sections closer together make it clear there are two types of skills being shown
+- Dividing the page into two sections and placing each item in their respective sections closer together make it clear there are two types of skills being shown
 
-        Contrast
+Contrast
 
-            - Contrast with white background and boxes reinforce the two section organizational pattern
+- Contrast with white background and boxes reinforce the two section organizational pattern
 
-    **Rhetorical Situation**
+### Rhetorical Situation{#skills}
 
-        Purpose
+Purpose
 
-            - Displaying my knowledge of languages and technical tools fit my purpose because these skills are particular relevant for software engineering roles
+- Displaying my knowledge of languages and technical tools fit my purpose because these skills are particular relevant for software engineering roles
 
-        Audience
+Audience
 
-            - Specific skills in technology indicate that I am specifically looking for recruiters that hire people in tech roles that are expected to know skills I list on this page
+- Specific skills in technology indicate that I am specifically looking for recruiters that hire people in tech roles that are expected to know skills I list on this page
 
-        Context
+Context
 
-            - Website existing on the internet means that while I made the website in NY, my website reaches an international audience and scale. So I want to reach as many people as possible so that they know my professional identity
+- Website existing on the internet means that while I made the website in NY, my website reaches an international audience and scale. So I want to reach as many people as possible so that they know my professional identity
 
-        Text
+Text
 
-            - Using linguistic and visual modes to highlight each skill make it clear what skills I am referencing
+- Using linguistic and visual modes to highlight each skill make it clear what skills I am referencing
 
-4. Projects Page \[1/3\]
+## 4. Projects Page \[1/3\]
 
-    ![project-page-1](/src/website-wireframe/projects-1.png)
+![project-page-1](/src/website-wireframe/projects-1.png)
 
-    **Design Choices**
+### Design Choices{#project-1}
 
-        Repetition
+Repetition
 
-            - I repeat the same format for each project
+- I repeat the same format for each project
 
-        Alignment
+Alignment
 
-            - I align the years vertically that serves as a timeline
-            
-            - I align all projects into three columns to make more use of space while still maintaining a clean organizational look
+- I align the years vertically that serves as a timeline
 
-        Proximity
+- I align all projects into three columns to make more use of space while still maintaining a clean organizational look
 
-            - I group projects based on year to show progression of my professional work over time
+Proximity
 
-        Contrast
+- I group projects based on year to show progression of my professional work over time
 
-            - Contrast between timeline and text form an imaginary separating line between groups of project by their year
+Contrast
 
-    **Rhetorical Situation**
+- Contrast between timeline and text form an imaginary separating line between groups of project by their year
 
-        Purpose
+### Rhetorical Situation{#project-1}
 
-            - Dedicating a page for past projects serve to show my audience relevant professional experiences and show where my interests are
+Purpose
 
-        Audience
+- Dedicating a page for past projects serve to show my audience relevant professional experiences and show where my interests are
 
-            - Professional experiences designing software applications indicate that my audience are recruiters who hire software engineers that have applicable years of experience
+Audience
 
-        Context
+- Professional experiences designing software applications indicate that my audience are recruiters who hire software engineers that have applicable years of experience
 
-            - Dating years of projects indicate a chronological pattern of my professional growth
+Context
 
-        Text
+- Dating years of projects indicate a chronological pattern of my professional growth
 
-            - Mix of images and text brings visual and linguistic modes into my project presentation
+Text
 
-5. Projects Page \[2/3\]
+- Mix of images and text brings visual and linguistic modes into my project presentation
 
-    ![project-page-2](/src/website-wireframe/projects-2.png)
+## 5. Projects Page \[2/3\]
 
-    **Design Choices**
+![project-page-2](/src/website-wireframe/projects-2.png)
 
-        Repetition
+### Design Choices{#project-2}
 
-            - Repeating title, skills, and image helps confirm to the reader their expectations after clicking on a project
+Repetition
 
-        Alignment
+- Repeating title, skills, and image helps confirm to the reader their expectations after clicking on a project
 
-            - Aligning description details as a bulleted list serves to distinguish each idea
+Alignment
 
-        Proximity
+- Aligning description details as a bulleted list serves to distinguish each idea
 
-            - Users expect to continue to read all written details of a project, so putting all text elements together reinforces their expectation
+Proximity
 
-        Contrast
+- Users expect to continue to read all written details of a project, so putting all text elements together reinforces their expectation
 
-            - Contrast between visual and linguistic elements make the visual elements pop
+Contrast
 
-    **Rhetorical Situation**
+- Contrast between visual and linguistic elements make the visual elements pop
 
-        Purpose
+### Rhetorical Situation{#project-2}
 
-            - I have this extra pop-up for each experience with text and visuals to clearly communicate what each experience is about and what challenges faced
+Purpose
 
-        Audience
+- I have this extra pop-up for each experience with text and visuals to clearly communicate what each experience is about and what challenges faced
 
-            - Same as previous
+Audience
 
-        Context
+- Same as previous
 
-            - Because this pop-up element is only accessed after clicking on a particular experience, I put extra details and demos because the audience indicated interest into this project
+Context
 
-        Text
-        
-            - Mix of images and text brings visual and linguistic modes into my project presentation
+- Because this pop-up element is only accessed after clicking on a particular experience, I put extra details and demos because the audience indicated interest into this project
 
-6. Projects Page \[3/3\]
+Text
 
-    ![project-page-3](/src/website-wireframe/projects-3.png)
+- Mix of images and text brings visual and linguistic modes into my project presentation
 
-        This is the same page as previous, except in the case I do not have a demo video to showcase. I make up for this lost element with larger image and reorganized skills/tools to use the extra whitespace.
-        Aligning the skills/tools into three columns and rows make this section quicker to read
-        Contrast between text and image makes the project image pop out
+## 6. Projects Page \[3/3\]
 
-7. Blog Page
+![project-page-3](/src/website-wireframe/projects-3.png)
 
-    ![blog-page](/src/website-wireframe/blog.png)
+This is the same page as previous, except in the case I do not have a demo video to showcase. I make up for this lost element with larger image and reorganized skills/tools to use the extra whitespace.
+Aligning the skills/tools into three columns and rows make this section quicker to read
+Contrast between text and image makes the project image pop out
 
-    **Design Choices**
+## 7. Blog Page
 
-        Repetition
+![blog-page](/src/website-wireframe/blog.png)
 
-            - I repeat the same format for each blog post
+### Design Choices{#blog}
 
-        Alignment
+Repetition
 
-            - I align the blog posts vertically to signal the users should scroll vertically to see each post
+- I repeat the same format for each blog post
 
-        Proximity
+Alignment
 
-            - I group each post’s image, title, author, and read buttons to make each blog post distinguishable
+- I align the blog posts vertically to signal the users should scroll vertically to see each post
 
-        Contrast
+Proximity
 
-            - Contrast white background and blog posts make the posts pop out of the page
+- I group each post’s image, title, author, and read buttons to make each blog post distinguishable
 
-    **Rhetorical Situation**
+Contrast
 
-        Purpose
+- Contrast white background and blog posts make the posts pop out of the page
 
-            - Including opinions and blogs on my website show that I want to highlight my passions with opinions on professional topics and industry news
+### Rhetorical Situation{#blog}
 
-        Audience
+Purpose
 
-            - Blog posts about virtual reality and machine learning/ai indicate that my audience are those who are similarly interested in the VR/AI industry
+- Including opinions and blogs on my website show that I want to highlight my passions with opinions on professional topics and industry news
 
-        Context
+Audience
 
-            - Updated frequently blog page show the current events during the time I made my professional website
+- Blog posts about virtual reality and machine learning/ai indicate that my audience are those who are similarly interested in the VR/AI industry
 
-        Text
+Context
 
-            - Article text for each blog post indicate that I am making an informational/opinionated piece of writing
+- Updated frequently blog page show the current events during the time I made my professional website
 
-8. Contact Page
+Text
 
-    ![contact-page](/src/website-wireframe/contact.png)
+- Article text for each blog post indicate that I am making an informational/opinionated piece of writing
 
-    **Design Choices**
-        Repetition
+## 8. Contact Page
 
-            - I repeat social links that were in the welcome page to give audience more chance to see them
+![contact-page](/src/website-wireframe/contact.png)
 
-        Alignment
+### Design Choices{#contact}
 
-            - I align the different contact information and Contact form entries
+Repetition
 
-        Proximity
+- I repeat social links that were in the welcome page to give audience more chance to see them
 
-            - I group the contact information into one section, separate from the others
+Alignment
 
-            - The right side of the page are calls to action by encouraging audience to act by either emailing me or booking an appt to talk
+- I align the different contact information and Contact form entries
 
-        Contrast
+Proximity
 
-            - Google map background contrasts with more solid color sections on the page to make the contact information clearly visible
+- I group the contact information into one section, separate from the others
 
-    **Rhetorical Situation**
+- The right side of the page are calls to action by encouraging audience to act by either emailing me or booking an appt to talk
 
-        Purpose
+Contrast
 
-            - I am encouraging my audience to reach out to me and give them several different channels of communication. This is to make it easier for them to contact me
+- Google map background contrasts with more solid color sections on the page to make the contact information clearly visible
 
-        Audience
+### Rhetorical Situation{#contact}
 
-            - Since I make several call to actions, I show that my audience are people who might be interested in speaking to me about employment opportunities
+Purpose
 
-        Context
+- I am encouraging my audience to reach out to me and give them several different channels of communication. This is to make it easier for them to contact me
 
-            - Location is given as an address so my audience knows where I am based
+Audience
 
-            - Phone number also indicates location by showing my area code
+- Since I make several call to actions, I show that my audience are people who might be interested in speaking to me about employment opportunities
 
-            - Phone number and email address indicate that this is my updated contact information
+Context
 
-            - Social media sites like LinkedIn and Github show that I am present on other parts of the internet
+- Location is given as an address so my audience knows where I am based
 
-        Text
+- Phone number also indicates location by showing my area code
 
-            - Calendar showing appointments make it easy for those to find an appt slot bc of its intuitive interface
-            
-            - Text boxes for contact form make it clear the audience should write in the boxes
+- Phone number and email address indicate that this is my updated contact information
+
+- Social media sites like LinkedIn and Github show that I am present on other parts of the internet
+
+Text
+
+- Calendar showing appointments make it easy for those to find an appt slot bc of its intuitive interface
+
+- Text boxes for contact form make it clear the audience should write in the boxes
