@@ -4,10 +4,14 @@ This is where I will document all updates and activaties spent on this project.
 
 ## Technologies
 
-- Figma
-- HTML
-- CSS
-- JavaScript
+- Figma (wireframe)
+- HTML (web pages)
+- CSS (style web pages)
+- JavaScript (dynamic web elements)
+- HostGator (web-hosting)
+- Google Domain (domain registrar)
+- Git (version control)
+- MarkDown (documentation and logging)
 
 ## Wireframe
 
