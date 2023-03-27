@@ -4,7 +4,7 @@
 
 ![home-page](/src/website-wireframe/Group%2019.png)
 
-### Design Choices {#home}
+### [Design Choices] {#home}
 
 Repetition
 
@@ -26,7 +26,7 @@ Proximity
 
 - Putting the navigation bar sections side by side help the user understand all the sections of my website
 
-### Rhetorical Situation {#home}
+### [Rhetorical Situation] {#home}
 
 Contrast
 
@@ -56,7 +56,7 @@ Text
 
 ![about-page](/src/website-wireframe/about.png)
 
-### Design Choices {#about}
+### [Design Choices] {#about}
 
 Repetition
 
@@ -80,7 +80,7 @@ Contrast
 
 - Contrast with boxes and the white background distinctly separates each element on the page so it is easy to identify the organization pattern
 
-### Rhetorical Situation {#about}
+### [Rhetorical Situation] {#about}
 
 Purpose
 
@@ -102,7 +102,7 @@ Text
 
 ![skills-page](/src/website-wireframe/Group%202.png)
 
-### Design Choices {#skills}
+### [Design Choices] {#skills}
 
 Repetition
 
@@ -120,7 +120,7 @@ Contrast
 
 - Contrast with white background and boxes reinforce the two section organizational pattern
 
-### Rhetorical Situation {#skills}
+### [Rhetorical Situation] {#skills}
 
 Purpose
 
@@ -142,7 +142,7 @@ Text
 
 ![project-page-1](/src/website-wireframe/projects-1.png)
 
-### Design Choices {#project-1}
+### [Design Choices] {#project-1}
 
 Repetition
 
@@ -162,7 +162,7 @@ Contrast
 
 - Contrast between timeline and text form an imaginary separating line between groups of project by their year
 
-### Rhetorical Situation {#project-1}
+### [Rhetorical Situation] {#project-1}
 
 Purpose
 
@@ -184,7 +184,7 @@ Text
 
 ![project-page-2](/src/website-wireframe/projects-2.png)
 
-### Design Choices {#project-2}
+### [Design Choices] {#project-2}
 
 Repetition
 
@@ -202,7 +202,7 @@ Contrast
 
 - Contrast between visual and linguistic elements make the visual elements pop
 
-### Rhetorical Situation {#project-2}
+### [Rhetorical Situation] {#project-2}
 
 Purpose
 
@@ -232,7 +232,7 @@ Contrast between text and image makes the project image pop out
 
 ![blog-page](/src/website-wireframe/blog.png)
 
-### Design Choices {#blog}
+### [Design Choices] {#blog}
 
 Repetition
 
@@ -250,7 +250,7 @@ Contrast
 
 - Contrast white background and blog posts make the posts pop out of the page
 
-### Rhetorical Situation {#blog}
+### [Rhetorical Situation] {#blog}
 
 Purpose
 
@@ -272,7 +272,7 @@ Text
 
 ![contact-page](/src/website-wireframe/contact.png)
 
-### Design Choices {#contact}
+### [Design Choices] {#contact}
 
 Repetition
 
@@ -292,7 +292,7 @@ Contrast
 
 - Google map background contrasts with more solid color sections on the page to make the contact information clearly visible
 
-### Rhetorical Situation {#contact}
+### [[Rhetorical Situation]] {#contact}
 
 Purpose
 
