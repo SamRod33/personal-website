@@ -1,0 +1,40 @@
+/* Not duplicated */
+
+/* Duplicated as in home */
+/* Right-aligned section inside the top navigation
+*  Add a black background color to the top navigation 
+*/
+.topnav-right {
+    overflow: hidden;
+    float: right;
+}
+
+/* Style the links inside the navigation bar */
+.topnav-right a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 0.75em 0.75em;
+  text-decoration: none;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+/* Change the color of links on hover */
+.topnav-right a:hover {
+  background-color: #1100ff85;
+  color: black;
+  border-radius: 1em;
+}
+
+/* Add a color to the active/current link */
+.topnav-right a.active {
+  background-color: #0f04aa;
+  color: white;
+  border-radius: 1em;
+}
+
+body {
+    /* font-family: "Helvetica now"; */
+    font-family: Arial, Helvetica, sans-serif;
+}
