@@ -3,22 +3,55 @@
 <head>
 <title>Home</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
 <link rel="icon" type="image/x-icon" href="/src/man.svg">
 <link rel="stylesheet" href="home-styles.css">
+<script src="home-scripts.js"></script>
 </head>
 
 <body>
-<div class="topnav-right">
+<nav class="topnav-right">
     <a class="active" href="/">Home</a>
     <a href="/about.html">About</a>
     <a href="/skills.html">Skills</a>
     <a href="/projects.html">Projects</a>
     <a href="/blog.html">Blog</a>
     <a href="/contact.html">Contact</a>
-</div>
+</nav>
 
-<h1>Samuel's Home Heading</h1>
-<p>Samuel's Home paragraph.</p>
+<!-- <h1>Samuel's Home Heading</h1>
+<p>Samuel's Home paragraph.</p> -->
+<div class="row">
+    <div class="intro">
+        <div class="personal-statement">
+            <p>I solve complex challenges and engineer the next innovative technologies to make life easier</p>
+        </div>
+        <div class="about-me">
+            <p> Hi, my name is Samuel Rodriguez 
+                <br>New Computer Science Graduate 
+                <br> Aspiring Machine Learning Engineer</p>
+        </div>
+        <div class="buttons">
+            <button class="lets-meet-button" onclick="window.location.href='/contact.html';">
+                <p>Let's Meet <i class="right-arrow"></i></p>
+            </button>
+            <button class="resume-button">
+                <p>My Resume <i class="right-arrow"></i></p>
+            </button>
+        </div>
+        
+    </div>
+    <div class="headshot">
+        <figure class="headshot-fig">
+            <img src="/src/headshot.jpg" class="headshot-img" alt="Samuel's Headshot">
+            <figcaption class="headshot-caption">
+                Fig. 1: Me! Looking very professional in my blue dress 
+                shirt at <a href="https://goo.gl/maps/tx1H24fi9oAVzDU98">Klaman Hall</a> 
+            </figcaption>
+        </figure>
+    </div>
+    
+</div>
 
 </body>
 </html>

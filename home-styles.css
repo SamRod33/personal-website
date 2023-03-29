@@ -1,9 +1,128 @@
+/* left side of page */
+.row {
+  clear: both;
+  width: 100%;
+  height: 100%;
+  /*to contain floated elements*/
+  overflow: hidden; 
+  display: flex;
+}
+
+.intro {
+  width: 50%;
+  height: 100%;
+  float: left; /* to float both divs to the left */
+  box-sizing: border-box; /* to include padding and border in the width*/
+  /* display: flex; */
+  flex-direction: column;
+  padding-left: 5%;
+  padding-top: 10%;
+}
+
+.personal-statement {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.about-me {
+  font-size: 1.5em;
+}
+
+.right-arrow {
+  border: solid #FFFFFF;
+  border-width: 0 0.2em 0.2em 0;
+  display: inline-block;
+  padding: 0.25em;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+
+.lets-meet-button {
+  /* display: inline-block; */
+  cursor: pointer;
+  font-weight: 600;
+  width: 30%;
+  margin-right: 10%;
+  font-size: 1.5em;
+  padding: 0.25em 0.5em;
+  overflow: hidden; 
+  border-radius: 1em;
+  color: #FFFFFF;
+  background-color: #AA3419;
+}
+
+.lets-meet-button:hover {
+  filter: brightness(1.2);
+}
+
+.lets-meet-button:active {
+  filter: brightness(0.9);
+}
+
+.lets-meet-button:hover > p {
+  transform: scale(1.05);
+}
+
+.lets-meet-button:active > p {
+  transform: scale(0.95);
+}
+
+.resume-button {
+  display: inline-block;
+  cursor: pointer;
+  width: 30%;
+  margin-left: 10%;
+  font-weight: 600;
+  font-size: 1.5em;
+  padding: 0.25em 0.5em;
+  overflow: hidden; 
+  border-radius: 1em;
+  color: #FFFFFF;
+  background-color: #AA3419;
+}
+
+.resume-button:hover {
+  filter: brightness(1.2);
+}
+
+.resume-button:active {
+  filter: brightness(0.9);
+}
+
+.resume-button:hover > p {
+  transform: scale(1.05);
+}
+
+.resume-meet-button:active > p {
+  transform: scale(0.95);
+}
+
+/* right side of page */
+
+.headshot {
+  width: 50%;
+  /* to float both divs to the left */
+  float: left; 
+  /* to include padding and border in the width */
+  box-sizing: border-box; 
+}
+
+.headshot-img {
+  width: 35em;
+  height: auto;
+  border-radius: 2em;
+}
+
+/* navbar */
+
 /* Right-aligned section inside the top navigation
 *  Add a black background color to the top navigation 
 */
 .topnav-right {
     overflow: hidden;
     float: right;
+    font-size: 1.29em;
 }
 
 /* Style the links inside the navigation bar */
@@ -34,4 +153,6 @@
 body {
     /* font-family: "Helvetica now"; */
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: #f5efef;
 }
