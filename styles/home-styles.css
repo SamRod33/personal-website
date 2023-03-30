@@ -109,7 +109,8 @@ button:active > p {
 /* Style the links inside the navigation bar */
 .topnav-right a {
   float: left;
-  color: #000000;
+  color: black;
+  background-color: white;
   text-align: center;
   padding: 0.75em 0.75em;
   text-decoration: none;
@@ -121,7 +122,7 @@ button:active > p {
 
 /* Change the color of links on hover */
 .topnav-right a:hover {
-  background-color: #1100ff85;
+  background-color: rgba(59, 59, 59, 0.176);
   color: black;
   border-radius: 1em;
   border: 0.1em solid black;
@@ -130,7 +131,7 @@ button:active > p {
 
 /* Add a color to the active/current link */
 .topnav-right a.active {
-  background-color: #0f04aa;
+  background-color: black;
   color: white;
   border-radius: 1em;
   border: 0.1em solid black;
