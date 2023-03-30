@@ -93,7 +93,6 @@ button:active > p {
   border-radius: 2em;
   border: 0.1em solid #272d2dfe;
   box-shadow: 0.1em 0.1em 0.1em #416567fe;
-  border-radius: 1em;
 }
 
 /* navbar */
