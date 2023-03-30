@@ -134,6 +134,8 @@
   text-decoration: none;
   font-size: 1.25em;
   font-weight: bold;
+  border: 0.1em solid black;
+  border-radius: 1em;
 }
 
 /* Change the color of links on hover */
@@ -141,6 +143,8 @@
   background-color: #1100ff85;
   color: black;
   border-radius: 1em;
+  border: 0.1em solid black;
+  border-style: outset;
 }
 
 /* Add a color to the active/current link */
@@ -148,6 +152,8 @@
   background-color: #0f04aa;
   color: white;
   border-radius: 1em;
+  border: 0.1em solid black;
+  border-style: outset;
 }
 
 body {
