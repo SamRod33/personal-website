@@ -19,6 +19,19 @@ You can find the wireframe images in [here](/src/website-wireframe), [project RE
 
 ## Log
 
+## 03/29/23
+
+- Border outline navbar for better style applied to all pages
+
+## 03/28/23
+
+- Completed layout of Home page
+- Completed redirecting Let's Meet button to contact page
+- Added all content to home page (besides My Resume button functionality)
+- Initial layout of About page is complete
+- Organized style sheets to dedicated directory
+- Launched current progress @ [Samuel Rodriguez's website](https://www.thesamrodriguez.com)
+
 ### 03/27/23
 
 - PROJECT.md done
