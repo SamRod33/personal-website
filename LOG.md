@@ -19,11 +19,11 @@ You can find the wireframe images in [here](/src/website-wireframe), [project RE
 
 ## Log
 
-## 03/29/23
+### 03/29/23
 
 - Border outline navbar for better style applied to all pages
 
-## 03/28/23
+### 03/28/23
 
 - Completed layout of Home page
 - Completed redirecting Let's Meet button to contact page
