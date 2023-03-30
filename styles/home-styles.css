@@ -88,7 +88,7 @@ button:active > p {
 }
 
 .headshot-img {
-  width: 90%;
+  width: 35em;
   height: auto;
   border-radius: 2em;
   border: 0.1em solid #272d2dfe;
