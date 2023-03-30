@@ -1,3 +1,74 @@
+/* row 1 content - headshot and about me description */
+.row-1 {
+  clear: both;
+  width: 100%;
+  height: 50%;
+  /*to contain floated elements*/
+  overflow: hidden; 
+  display: flex;
+}
+
+.headshot {
+  width: 40%;
+  height: 100%;
+  float: left; /* to float both divs to the left */
+  box-sizing: border-box; /* to include padding and border in the width*/
+  /* display: flex; */
+  flex-direction: column;
+  padding-left: 5%;
+}
+
+.about-txt {
+  width: 60%;
+  height: 50%;
+  /* to float both divs to the left */
+  float: left; 
+  /* to include padding and border in the width */
+  box-sizing: border-box;
+}
+
+/* row 2 content - professional interests, current involvements, and hobbies */
+.row-2 {
+  clear: both;
+  width: 100%;
+  height: 100%;
+  /*to contain floated elements*/
+  overflow: hidden; 
+  display: flex;
+  justify-content: center;
+}
+
+.interests {
+  width: 50%;
+  height: 100%;
+  float: left; /* to float both divs to the left */
+  box-sizing: border-box; /* to include padding and border in the width*/
+  /* display: flex; */
+  flex-direction: column;
+  width: 33%;
+  height: 100%;
+  /* to float both divs to the left */
+  background-color: #A8987E;
+}
+
+#professional {
+  padding-left: 3%;
+  padding-right: 1%;
+  text-align: center;
+}
+
+#current-involvements {
+  padding-left: 1%;
+  padding-right: 1%;
+  text-align: center;
+}
+
+#hobbies {
+  padding-left: 1%;;
+  padding-right: 3%;
+  text-align: center;
+}
+
 /* navbar */
 
 /* Right-aligned section inside the top navigation
