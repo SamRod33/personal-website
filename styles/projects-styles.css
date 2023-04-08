@@ -1,3 +1,92 @@
+/* header */
+.header {
+  clear: both;
+  text-align: center;
+}
+
+.timeline-oval {
+  width: 4%;
+  height: 100%;
+  background: #434343;
+  opacity: 0.3;
+  border-radius: 2em;
+  z-index: -1;
+  position: absolute;
+}
+
+.container {
+  padding-top: 0.1%;
+}
+
+/* project cards' container */
+.year {
+  padding-left: 0.2%;
+  /* border-radius: 15%; */
+  /* border: 0.1em solid #272d2dfe; */
+  /* box-shadow: 0.1em 0.1em 0.1em #416567fe; */
+}
+
+.projects {
+  padding-left: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  align-items: center;
+  column-gap: 3%;
+}
+
+/* project cards */
+.card {
+  width: 25%;
+  border: 0.1em solid black;
+  box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
+  border-radius: 1em;
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10%;
+}
+
+.img-container {
+  width: 35%;
+}
+
+.project-img {
+  width: 100%;
+  height: 99%;
+  border: 0.05em solid black;
+  box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
+  border-radius: 0.9em;
+}
+
+.card-content-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10%;
+}
+
+.card-content-container > div {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.skills-used {
+  margin-top: 10%;
+}
+
+.right-arrow {
+  border: solid #000000;
+  border-width: 0 0.2em 0.2em 0;
+  display: inline-block;
+  padding: 0.25em;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
 /* navbar */
 
 /* Right-aligned section inside the top navigation
@@ -46,4 +135,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   background-color: #f5efef;
+  /* overflow: hidden;  */
+  box-sizing: border-box;
 }
