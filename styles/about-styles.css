@@ -57,7 +57,7 @@
   border: 0.1em solid rgb(0, 0, 0);
   border-radius: 1em;
   box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
-  margin-left: 5%;
+  margin-left: 2%;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -68,7 +68,7 @@
 }
 
 .about-txt, .skills {
-  width: 30%;
+  width: 33%;
   background-color: #c6dbdefe;
 }
 
@@ -83,11 +83,9 @@
 
 .status-txt, .interests-body {
   margin: 2% 3% 5%;
-  width: 94%;
   padding-left: 3%;
   padding-right: 3%;
   box-sizing: border-box; /* to include padding and border in the width */
-  display: inline-block;
   text-align: left;
   border: 0.1em solid black;
   box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
@@ -113,7 +111,6 @@
 
 .interests {
   width: 100%;
-  height: 30vh;
   float: left; /* to float both divs to the left */
   box-sizing: border-box; /* to include padding and border in the width*/
   /* display: flex;
@@ -123,10 +120,6 @@
   border: 0.1em solid rgb(0, 0, 0);
   border-radius: 1em;
   box-shadow: 0.1em 0.1em 0.1em #9a9a9afe;
-}
-
-.interests-body {
-  height: 60%;
 }
 
 #relevant-courses {
