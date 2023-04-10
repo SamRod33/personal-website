@@ -48,11 +48,11 @@
                     <form method="post" action="/email-form.php" class="email-form">
                         <div class="email-entry">
                             <label for="myName">Name</label>
-                            <input type="text" id="myName" name="name" maxlength="250" placeholder="Enter name">
+                            <input type="text" id="myName" name="name" maxlength="250" placeholder="Enter name" required="true">
                         </div>
                         <div class="email-entry">
                             <label for="mySubject">Subject</label>
-                            <input type="text" id="mySubject" name="subject" maxlength="250" placeholder="Enter subject">
+                            <input type="text" id="mySubject" name="subject" maxlength="250" placeholder="Enter subject" required="true">
                         </div>
                         <div class="email-entry">
                             <label for="myEmail">Your Email</label>
@@ -63,7 +63,7 @@
                             <textarea type="text" id="myMsg" name="msg" maxlength="4096" placeholder="What do you want to say?"></textarea>
                         </div>
                         <div class="submission">
-                            <input type="submit" id="mySubmit" value="Submit">
+                            <input type="submit" name="formSubmit" value="Submit">
                         </div>
                 </div>
                 <div class="contact-info">
