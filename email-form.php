@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8" />
 <link rel="icon" type="image/x-icon" href="/src/man.svg">
-<!-- <link rel="stylesheet" href="/styles/email-form-styles.css"> -->
 </head>
 
 <body>
@@ -66,6 +65,7 @@
                     $_SESSION['subject'] = $subject;
                     $_SESSION['visitorEmail'] = $visitorEmail;
                     $_SESSION['msg'] = $msg;
+                    echo("Success!");
                     header("Location: email-form-confirmation.php");
                     exit;
                 }
