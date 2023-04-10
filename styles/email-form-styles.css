@@ -1,0 +1,72 @@
+/* main content */
+.container {
+    background-color: rgb(255, 255, 255);
+    clear: both;
+    border: 0.05em solid black;
+    box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
+    border-radius: 0.9em;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 90%;
+    float: left;
+
+}
+
+.heading {
+    background-color: rgb(177, 177, 177);
+    padding-left: 2%;
+    /* color: white; */
+    border: 0.05em solid black;
+    box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
+    border-radius: 0.9em;
+    margin: 2%;
+}
+
+.message {
+    background-color: white;
+    box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
+    border-radius: 0.9em;
+    margin: 2%;
+    padding: 1%;
+}
+
+/* navbar */
+
+/* Right-aligned section inside the top navigation
+*  Add a black background color to the top navigation 
+*/
+.topnav-right {
+overflow: hidden;
+float: right;
+font-size: 1.29em;
+}
+
+/* Style the links inside the navigation bar */
+.topnav-right a {
+float: left;
+color: black;
+background-color: white;
+text-align: center;
+padding: 0.75em 0.75em;
+text-decoration: none;
+font-size: 1.25em;
+font-weight: bold;
+border: 0.1em solid black;
+border-radius: 1em;
+}
+
+/* Change the color of links on hover */
+.topnav-right a:hover {
+background-color: rgba(59, 59, 59, 0.176);
+color: black;
+border-radius: 1em;
+border: 0.1em solid black;
+border-style: outset;
+}
+
+body {
+/* font-family: "Helvetica now"; */
+font-family: Arial, Helvetica, sans-serif;
+font-size: 100%;
+background-color: #f5efef;
+}
