@@ -135,6 +135,21 @@
   margin-bottom: 1%;
 }
 
+#myName {
+  width: 40%;
+  margin-left: 10%;
+}
+
+#mySubject {
+  width: 65%;
+  margin-left: 7%;
+}
+
+#myEmail {
+  width: 50%;
+  margin-left: 2%;
+}
+
 .email-entry > label, .email-msg > label {
   font-weight: bold;
   font-size: large;

@@ -48,19 +48,19 @@
                     <form method="post" action="/email-form.php" class="email-form">
                         <div class="email-entry">
                             <label for="myName">Name</label>
-                            <input type="text" id="myName" name="name">
+                            <input type="text" id="myName" name="name" maxlength="250" placeholder="Enter name">
                         </div>
                         <div class="email-entry">
                             <label for="mySubject">Subject</label>
-                            <input type="text" id="mySubject" name="subject">
+                            <input type="text" id="mySubject" name="subject" maxlength="250" placeholder="Enter subject">
                         </div>
                         <div class="email-entry">
-                            <label for="myEmail">Your Email (Optional)</label>
-                            <input type="email" id="myEmail" name="email">
+                            <label for="myEmail">Your Email</label>
+                            <input type="email" id="myEmail" name="email" maxlength="250" placeholder="Optional">
                         </div>
                         <div class="email-msg">
                             <label for="myMsg">Message</label>
-                            <textarea type="text" id="myMsg" name="msg"></textarea>
+                            <textarea type="text" id="myMsg" name="msg" maxlength="4096" placeholder="What do you want to say?"></textarea>
                         </div>
                         <div class="submission">
                             <input type="submit" id="mySubmit" value="Submit">
