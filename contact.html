@@ -9,16 +9,96 @@
 </head>
 
 <body>
-<div class="topnav-right">
-    <a href="/">Home</a>
-    <a href="/about.html">About</a>
-    <a href="/projects.html">Projects</a>
-    <a href="/blog.html">Blog</a>
-    <a class="active" href="/contact.html">Contact</a>
-</div>
+    <header>
+        <nav class="topnav-right">
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/projects.html">Projects</a>
+            <a href="/blog.html">Blog</a>
+            <a class="active" href="/contact.html">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <div class="contact">
+            <div class="book">
+                <div class="book-heading-wrap">
+                    <div class="book-heading">
+                        <h1>Book An Appointment with Sam</h1>
+                    </div>
+                </div>
+                <div id="calendar">
+                    <!-- Calendly inline widget begin -->
+                    <div class="calendly-inline-widget" data-auto-load="false"></div>
+                    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+                    <script>
+                        Calendly.initInlineWidget({
+                        url: 'https://calendly.com/meet-w-sam'
+                        });
+                    </script>
+                    <!-- Calendly inline widget end -->
+                    </div>
+            </div>
+            <div class="forms">
+                <div class="email">
+                    <div class="email-heading-wrap">
+                        <div class="email-heading">
+                            <h1>Email Sam</h1>
+                        </div>
+                    </div>
+                    <form method="post" action="/email-form.php" class="email-form">
+                        <div class="email-entry">
+                            <label for="myName">Name</label>
+                            <input type="text" id="myName" name="name">
+                        </div>
+                        <div class="email-entry">
+                            <label for="mySubject">Subject</label>
+                            <input type="text" id="mySubject" name="subject">
+                        </div>
+                        <div class="email-entry">
+                            <label for="myEmail">Your Email (Optional)</label>
+                            <input type="email" id="myEmail" name="email">
+                        </div>
+                        <div class="email-msg">
+                            <label for="myMsg">Message</label>
+                            <textarea type="text" id="myMsg" name="msg"></textarea>
+                        </div>
+                        <div class="submission">
+                            <input type="submit" id="mySubmit" value="Submit">
+                        </div>
+                </div>
+                <div class="contact-info">
+                    <div class="heading-wrap">
+                        <div class="heading">
+                            <h1>How to Reach Sam</h1>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <h2>Phone: <a href="tel:+18137209176">+1(813)720-9176</a></h2>
+                    </div>
+                    <div class="info">
+                        <h2>Email: <a href="mailto:sam@thesamrodriguez.com">sam@thesamrodriguez.com</a></h2>
+                    </div>
+                    <div class="info">
+                        <div class="socials">
+                            <div id="linkedin">
+                                <a href="https://www.linkedin.com/in/samuel-rodriguez33/">
+                                    <img src="/src/LinkedIn-Logos/LI-In-Bug.png" class="linkedin-img" title="LinkedIn Icon" alt="Go to Sam's LinkedIn page icon">
+                                </a>
+                            </div>
+                            <div id="github">
+                                <a href="https://github.com/SamRod33">
+                                    <img src="/src/github-mark/github-mark-white.png" class="github-img" title="Github Icon" alt="Go to Sam's Github page icon">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-<h1>Samuel's Contact Heading</h1>
-<p>Samuel's Contact paragraph.</p>
+            </div>
+        </div>
+    </main>
+    
+
 
 </body>
 </html>
