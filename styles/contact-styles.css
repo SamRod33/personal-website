@@ -21,18 +21,23 @@
 
 .heading-wrap {
   display: flex;
-  justify-content: center;
+  justify-content: center;  
+  margin-top: 2%;
+  margin-bottom: 3%;
 }
 
 .heading {
-  margin-top: 5%;
-  margin-bottom: 5%;
   width: 55%;
   background-color: #888e8ffe;
   text-align: center;
   border: 0.05em solid black;
   box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
   border-radius: 0.9em;
+  margin: 0;
+}
+
+.heading > h1 {
+  margin: 1%;
 }
 
 .info {
@@ -110,6 +115,10 @@
   border-radius: 0.9em;
 }
 
+.email-heading > h1 {
+  margin: 1%;
+}
+
 .email-form {
   padding: 2%;
   background-color: #888e8ffe;
@@ -174,6 +183,7 @@ input[type=text], input[type=email] {
   margin-left: 3%;
   width: 40%;
   height: 0%;
+  padding-bottom: 2%;
 }
 
 .book-heading-wrap {
@@ -190,6 +200,10 @@ input[type=text], input[type=email] {
   border: 0.05em solid black;
   box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
   border-radius: 0.9em;
+}
+
+.book-heading > h1 {
+  margin: 0;
 }
 
 #calendar {
@@ -254,7 +268,7 @@ body {
 
 html {
   /* The image used */
-  background-image: url("/src/maps-tampa.png");
+  background-image: url("/src/maps-tampa-copy-2.png");
 
   /* Full height/width */
   height: 100%; 

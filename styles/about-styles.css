@@ -1,7 +1,7 @@
 /* row 1 content - headshot and about me description */
 .row-1 {
   clear: both;
-  height: 50%;
+  height: 35%;
   width: 100%;
   /*to contain floated elements*/
   overflow: hidden; 
@@ -101,8 +101,8 @@
 /* row 2 content - professional interests, current involvements, and hobbies */
 .row-2 {
   clear: both;
-  width: 100%;
-  height: 100%;
+  /* width: 100%; */
+  /* height: 100%; */
   /*to contain floated elements*/
   /* overflow: hidden;   */
   display: flex;
@@ -113,7 +113,7 @@
 
 .interests {
   width: 100%;
-  height: 100%;
+  height: 30vh;
   float: left; /* to float both divs to the left */
   box-sizing: border-box; /* to include padding and border in the width*/
   /* display: flex;
@@ -123,7 +123,10 @@
   border: 0.1em solid rgb(0, 0, 0);
   border-radius: 1em;
   box-shadow: 0.1em 0.1em 0.1em #9a9a9afe;
-  padding-bottom: 10%;
+}
+
+.interests-body {
+  height: 60%;
 }
 
 #relevant-courses {
@@ -178,5 +181,4 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   background-color: #f5efef;
-  height: 100vh;
 }
