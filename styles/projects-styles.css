@@ -1,12 +1,13 @@
 /* header */
 .heading {
-  clear: both;
+  /* clear: both; */
   text-align: center;
+  padding-top: 7%;
 }
 
 .timeline-oval {
-  width: 4%;
-  height: 100%;
+  width: 3.7em;
+  height: 80em;
   background: #434343;
   opacity: 0.3;
   border-radius: 2em;
@@ -28,6 +29,8 @@
 
 .projects {
   padding-left: 5%;
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -38,7 +41,8 @@
 
 /* project cards */
 .card {
-  width: 25%;
+  width: 25em;
+  height: 10em;
   border: 0.1em solid black;
   box-shadow: 0.1em 0.1em 0.1em #8a8a8afe;
   border-radius: 1em;
@@ -63,7 +67,7 @@
 .card-content-container {
   display: flex;
   flex-direction: column;
-  row-gap: 10%;
+  width: 65%;
 }
 
 .card-content-container > div {
@@ -87,47 +91,101 @@
   -webkit-transform: rotate(-45deg);
 }
 
+.card-title {
+  /* padding-top: 10%; */
+  font-size: larger;
+  font-weight: bold;
+}
+
+.skills-used {
+  font-size: 0.9em;
+  padding-bottom: 3%;
+}
+
+/* project modal */
+/* Modal container */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* Close button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /* navbar */
+
+header {
+  position: fixed;
+  width: 100%;
+}
 
 /* Right-aligned section inside the top navigation
 *  Add a black background color to the top navigation 
 */
 .topnav-right {
-  overflow: hidden;
   float: right;
-  font-size: 1.29em;
+  font-size: 1.30em;
+  margin-right: 2%;
 }
 
 /* Style the links inside the navigation bar */
 .topnav-right a {
-float: left;
-color: black;
-background-color: white;
-text-align: center;
-padding: 0.75em 0.75em;
-text-decoration: none;
-font-size: 1.25em;
-font-weight: bold;
-border: 0.1em solid black;
-border-radius: 1em;
+  float: left;
+  color: black;
+  background-color: white;
+  text-align: center;
+  padding: 0.75em 0.75em;
+  text-decoration: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  border: 0.1em solid black;
+  border-radius: 1em;
 }
 
 /* Change the color of links on hover */
 .topnav-right a:hover {
-background-color: rgba(59, 59, 59, 0.176);
-color: black;
-border-radius: 1em;
-border: 0.1em solid black;
-border-style: outset;
+  background-color: rgba(59, 59, 59, 0.176);
+  color: black;
+  border-radius: 1em;
+  border: 0.1em solid black;
+  border-style: outset;
 }
 
 /* Add a color to the active/current link */
 .topnav-right a.active {
-background-color: black;
-color: white;
-border-radius: 1em;
-border: 0.1em solid black;
-border-style: outset;
+  background-color: black;
+  color: white;
+  border-radius: 1em;
+  border: 0.1em solid black;
+  border-style: outset;
 }
 
 body {
